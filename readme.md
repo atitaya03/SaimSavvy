@@ -77,6 +77,3 @@ This will provide access to the Swagger UI, where you can interact with the avai
 - Ensure the MySQL/MariaDB server is running and accessible.
 - Make sure port `8095` is not being used by another application.
 
-## License
-
-Include your license information if applicable.
