@@ -3,7 +3,7 @@ version: '3.8'
 services:
   postgres:
     image: postgres:latest
-    container_name: postgres-jenkins
+    container_name: postgres
     environment:
       - POSTGRES_PASSWORD=password
       - POSTGRES_USER=postgres
